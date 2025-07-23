@@ -9,11 +9,11 @@
 
 ### 🧠 About Me
 
-🎓 Data Science Engineer Graduate — University of Mumbai 2024
-🏬 8+ years of experience running & analyzing inventory/sales for a jewelry business(Part-Time)  
-📈 Passionate about uncovering insights that drive decisions, growth, and profitability  
-🔍 Skilled at turning complex data into clear, visual, and actionable insights  
-📌 Actively seeking **Data Analyst** / **Business Analyst** roles  
+🎓 **Data Science Engineer**, Mumbai University – Class of 2024  
+🏬 **8+ years** managing inventory & sales insights in jewelry business (part-time)  
+📈 Passionate about uncovering insights that fuel strategic decisions  
+🔍 Skilled in transforming raw data into actionable dashboards and KPIs  
+🚀 Seeking **Data Analyst** / **Business Analyst** roles across domains  
 
 ---
 
@@ -21,9 +21,9 @@
 
 | Area | Tools / Technologies |
 |------|----------------------|
-| **Data Analysis** | Python (Pandas, NumPy), SQL, Advanced Excel |
+| **Languages** | Python (Pandas, NumPy), Advance SQL, Excel |
+| **Databases** | MySQL, SQL Server |
 | **Visualization** | Tableau, Power BI |
-| **Database** | MySQL, SQL Server |
 | **Soft Skills** | Business Acumen, Communication, Problem Solving |
 
 ---
@@ -31,38 +31,37 @@
 ### 🚀 Featured Projects
 
 #### 📊 [Sales & Customer Insights Dashboard](https://public.tableau.com/app/profile/ajay.soni2371/viz/SalesCustomerDashboard_17501918816110/CustomerDashbaord)
-- Interactive Tableau dashboard visualizing key KPIs, regional performance, and customer segmentation
-- Helped drive strategic decisions using YoY comparison, filters, and visual storytelling
+- Tableau dashboard showing KPIs, customer segments, YoY analysis  
+- Backed business decision-making with interactive visuals  
 
-#### 🔍 [Product Description Web Scraper – Python](https://github.com/ajay4466/WebScraping-computech-)
-- Built a Python scraper to extract product descriptions from Computech website for catalog analysis
-- Used `requests`, `BeautifulSoup`, and `pandas` to structure and clean the output
+#### 🔍 [Product Description Web Scraper (Python)](https://github.com/ajay4466/WebScraping-computech-)
+- Scraped product details using `BeautifulSoup`, cleaned with `pandas`  
+- Built for competitor benchmarking and catalog automation  
 
-#### 📁 [Advance EDA with SQL](https://github.com/ajay4466/EDA-with-SQL)
-- Performed advanced SQL analysis using joins, CTEs, ranking, segmentation
-- Generated insights on customer behavior, revenue performance, and product trends
-
----
-
-### 📈 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajay4466&show_icons=true&theme=tokyonight&hide_title=true" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=ajay4466&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay4466&layout=compact&theme=tokyonight" height="130"/>
-</p>
+#### 🧮 [Advanced SQL EDA Project](https://github.com/ajay4466/EDA-with-SQL)
+- Analyzed sales and customer patterns with advanced SQL (joins, CTEs, rank, etc.)  
+- Delivered actionable insights on churn and product performance  
 
 ---
 
-### 📜 Certifications
+### 📊 GitHub Highlights
 
-- 📘 [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments) – Coursera  
-- 🧪 Machine Learning Specialization – Stanford (in progress)  
-- 🔍 Data Science Master 2.0 – Physics Wallah  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajay4466&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=ajay4466&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay4466&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
+</p>
+
+---
+
+### 🏆 Certifications
+
+- 📘 [Google Advanced Data Analytics (Coursera)](https://www.coursera.org/account/accomplishments)
+- 📊 Data Science Master 2.0 – Physics Wallah  
+- 🧪 Machine Learning Specialization – Stanford (in progress)
 
 ---
 
@@ -82,6 +81,4 @@
 
 ---
 
-<p align="center">
-  <i>“I don’t just work with data — I uncover what matters.”</i>
-</p>
+<p align="center"><i>"I don’t just work with data — I uncover what matters."</i></p>
