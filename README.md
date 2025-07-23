@@ -2,7 +2,7 @@
 <h3 align="center">📊 Data Analyst | Business Problem Solver | Insights-Driven Storyteller</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3CB371&center=true&width=480&lines=Data+driven+decision+maker;Tableau+%7C+SQL+%7C+Python+%7C+Power+BI;Transforming+data+into+real+business+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CB371&center=true&vCenter=true&width=480&lines=Data+driven+decision+maker;Tableau+%7C+SQL+%7C+Python+%7C+Power+BI;Transforming+data+into+real+business+impact" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 🎓 **Data Science Engineer**, Mumbai University – Class of 2024  
-🏬 **8+ years** managing inventory & sales insights in jewelry business (part-time)  
+🏬 **8+ years** managing inventory & sales insights in a jewelry business (part-time)  
 📈 Passionate about uncovering insights that fuel strategic decisions  
 🔍 Skilled in transforming raw data into actionable dashboards and KPIs  
 🚀 Seeking **Data Analyst** / **Business Analyst** roles across domains  
@@ -21,7 +21,7 @@
 
 | Area | Tools / Technologies |
 |------|----------------------|
-| **Languages** | Python (Pandas, NumPy), Advance SQL, Excel |
+| **Languages** | Python (Pandas, NumPy), SQL, Excel |
 | **Databases** | MySQL, SQL Server |
 | **Visualization** | Tableau, Power BI |
 | **Soft Skills** | Business Acumen, Communication, Problem Solving |
@@ -48,11 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajay4466&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=ajay4466&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay4466&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay4466&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
