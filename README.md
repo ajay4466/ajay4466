@@ -30,15 +30,15 @@
 
 ### 🚀 Featured Projects
 
-#### 📊 [Sales & Customer Insights Dashboard](https://github.com/ajay4466/sales-dashboard-tableau)
+#### 📊 [Sales & Customer Insights Dashboard](https://public.tableau.com/app/profile/ajay.soni2371/viz/SalesCustomerDashboard_17501918816110/CustomerDashbaord)
 - Interactive Tableau dashboard visualizing key KPIs, regional performance, and customer segmentation
 - Helped drive strategic decisions using YoY comparison, filters, and visual storytelling
 
-#### 🔍 [Product Description Web Scraper – Python](https://github.com/ajay4466/Product-Description-Scraper)
+#### 🔍 [Product Description Web Scraper – Python](https://github.com/ajay4466/WebScraping-computech-)
 - Built a Python scraper to extract product descriptions from Computech website for catalog analysis
 - Used `requests`, `BeautifulSoup`, and `pandas` to structure and clean the output
 
-#### 📁 [Retail Data EDA with SQL](https://github.com/ajay4466/sql-eda-retail)
+#### 📁 [Advance EDA with SQL](https://github.com/ajay4466/EDA-with-SQL)
 - Performed advanced SQL analysis using joins, CTEs, ranking, segmentation
 - Generated insights on customer behavior, revenue performance, and product trends
 
@@ -50,6 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ajay4466&show_icons=true&theme=tokyonight&hide_title=true" height="165" />
   <img src="https://streak-stats.demolab.com/?user=ajay4466&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay4466&layout=compact&theme=tokyonight" height="130"/>
