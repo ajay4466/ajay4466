@@ -2,18 +2,18 @@
 <h3 align="center">📊 Data Analyst | Business Problem Solver | Insights-Driven Storyteller</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3CB371&center=true&width=480&lines=Data+driven+decision+maker;Tableau+%7C+SQL+%7C+Python+%7C+Power+BI;Transforming+data+into+real+business+impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3CB371&center=true&width=480&lines=Data+driven+decision+maker;Tableau+%7C+SQL+%7C+Python+%7C+Power+BI;Transforming+data+into+real+business+impact" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-🎓 Data Science Engineer Graduate— University of Mumbai 2024
-🏬 8+ years of hands-on experience running & analyzing inventory/sales for a jewelry business(Part-Time)
+🎓 Data Science Engineer Graduate — University of Mumbai 2024
+🏬 8+ years of experience running & analyzing inventory/sales for a jewelry business(Part-Time)  
 📈 Passionate about uncovering insights that drive decisions, growth, and profitability  
 🔍 Skilled at turning complex data into clear, visual, and actionable insights  
-📌 Open to **Data Analyst** / **Business Analyst** roles and internships  
+📌 Actively seeking **Data Analyst** / **Business Analyst** roles  
 
 ---
 
@@ -28,19 +28,19 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-#### 📊 **Sales & Customer Insights Dashboard** – *Tableau*
-- Designed an interactive dashboard to visualize sales KPIs, customer segmentation, and YoY performance
-- Enabled decision-makers to track regional trends, identify top performers, and take corrective action
+#### 📊 [Sales & Customer Insights Dashboard](https://github.com/ajay4466/sales-dashboard-tableau)
+- Interactive Tableau dashboard visualizing key KPIs, regional performance, and customer segmentation
+- Helped drive strategic decisions using YoY comparison, filters, and visual storytelling
 
-#### 📁 **Retail Data EDA Project** – *SQL + Excel*
-- Explored large retail dataset using advanced SQL (joins, CTEs, ranking, segmentation)
-- Generated executive-level insights on product performance, customer behavior, and revenue trends
+#### 🔍 [Product Description Web Scraper – Python](https://github.com/ajay4466/Product-Description-Scraper)
+- Built a Python scraper to extract product descriptions from Computech website for catalog analysis
+- Used `requests`, `BeautifulSoup`, and `pandas` to structure and clean the output
 
-#### 🌐 **School Finder Website (Internship)** – *Web Development*
-- Built a school search platform with dynamic filters for parents and students
-- Applied structured thinking and real-user problem-solving
+#### 📁 [Retail Data EDA with SQL](https://github.com/ajay4466/sql-eda-retail)
+- Performed advanced SQL analysis using joins, CTEs, ranking, segmentation
+- Generated insights on customer behavior, revenue performance, and product trends
 
 ---
 
@@ -48,7 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajay4466&show_icons=true&theme=tokyonight&hide_title=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=ajay4466&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=ajay4466&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@
 
 ---
 
-### 🌐 Let’s Connect
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="mailto:ajaysoniwork@gmail.com">
